@@ -1,5 +1,8 @@
-Grocery CRUD
-=============
-Grocery CRUD is a PHP and Codeigniter Framework library that creates a full functional CRUD system without the need to customise JavaScript or CSS.
+Grocery CRUD - Datamapper - Server side pagination
+===================================================
+This is a modified code based on Grocery CRUD. It implements server side recordset retrival and pagination for the datamapper theme.
 
-For more information, visit http://www.grocerycrud.com
+
+# Contributor
+Faisal Ahmed ( thephpx(at)gmail.com ) - http://blog.faisalbd.com
+
